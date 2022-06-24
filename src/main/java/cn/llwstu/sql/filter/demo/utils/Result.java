@@ -1,11 +1,11 @@
-package cn.goroute.smart.common.utils;
+package cn.llwstu.sql.filter.demo.utils;
 
 import lombok.ToString;
 
 import java.util.HashMap;
 
 /**
- * 返回数据
+ * 结果类
  * @author Alickx
  */
 @ToString
